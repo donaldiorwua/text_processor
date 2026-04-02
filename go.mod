@@ -1,0 +1,3 @@
+module TEXT_PROCESSOR
+
+go 1.22.2

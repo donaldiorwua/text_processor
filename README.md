@@ -1,6 +1,6 @@
-# Text Processor (Calculator)
+# Basic Calculator
 
-Simple command-line text processor / calculator written in Go.
+Simple command-line calculator written in Go.
 
 ## Overview
 This small program provides a basic interactive calculator that supports add, subtract, multiply and divide operations. It demonstrates simple user input handling and function organization in Go.
